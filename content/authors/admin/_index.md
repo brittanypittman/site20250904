@@ -9,8 +9,8 @@ last_name: Pittman
 pronouns: she/her
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,11 +34,11 @@ profiles:
     label: E-mail Me
 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/brittany-pittman-a4833762/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&authuser=1&user=quIVPiwAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: http://orcid.org/0000-0001-7700-4382
 
 interests:
   - Graph Theory
