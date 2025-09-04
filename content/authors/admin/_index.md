@@ -42,7 +42,8 @@ profiles:
 
 interests:
   - Graph Theory
-  - Pursuit-Evasion Games on graphs
+  - Pursuit-Evasion Games on Gaphs
+  - Ramsey Theory
   
 
 education:
