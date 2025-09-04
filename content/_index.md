@@ -48,8 +48,8 @@ sections:
       columns: '1'
   - block: collection
     content:
+     id: papers
       title: Recent Publications
-      id: papers
       text: ""
       filters:
         folders:
