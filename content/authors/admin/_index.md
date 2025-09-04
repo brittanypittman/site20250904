@@ -93,7 +93,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-        
+
 
 
 
@@ -115,4 +115,4 @@ skills:
 
 ## About Me
 
-Brittany Pittman is a postdoctoral fellow.
+Brittany Pittman is a mathematician and NSERC postdoctoral fellow at Grenfell Campus, Memorial University of Newfoundland. Her work focuses on graph theory and pursuit-evasion games on graphs, particularly the localization game. She is committed to advancing indigenous representation in mathematics and integrating indigenous perspectives into STEM education.
