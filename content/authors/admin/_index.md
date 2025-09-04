@@ -80,8 +80,8 @@ work:
     company_name: Grenfell Campus, Memorial University of Newfoundland
     company_url: ''
     company_logo: ''
-    date_start: 2024-11-01
-    date_end: ''
+    date_start: 2023-09-04
+    date_end: '2024-12'
     summary: Courses taught - Math 1001 Calculus II (Fall 2023 and Winter 2024), Math 4340 Combinatorial Analysis (Winter 2024), Math 1090 Algebra and Trigonometry (Fall 2024)
     
 
