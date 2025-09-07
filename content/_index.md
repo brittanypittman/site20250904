@@ -48,12 +48,31 @@ sections:
       title: Recent Publications
       text: |-
 
-        - Anthony Bonato, Ryan Cushman, Trent G. Marbach, **Brittany Pittman** (2023). *The localization game on oriented graphs.* *Discrete Applied Mathematics,* **338**, 145–157. [https://doi.org/10.1016/j.dam.2023.06.003](https://doi.org/10.1016/j.dam.2023.06.003)  
-
-        - Natalie C. Behague, Anthony Bonato, Melissa A. Huggan, Trent G. Marbach, **Brittany Pittman** (2022). *The localization capture time of a graph.* *Theoretical Computer Science,* **911**, 80–91. [https://doi.org/10.1016/j.tcs.2022.02.007](https://doi.org/10.1016/j.tcs.2022.02.007)  
-
-        - D. Dyer, J. Howell, **Brittany Pittman** (2021). *The watchman’s walk problem on directed graphs.* *Australasian Journal of Combinatorics,* **80**, 197–216.
-      
+        <ul style="list-style: disc; margin-left: 1.25rem;">
+          <li>
+            Anthony Bonato, Ryan Cushman, Trent G. Marbach, <strong>Brittany Pittman</strong> (2023).<br>
+            <em>The localization game on oriented graphs.</em><br>
+            <em>Discrete Applied Mathematics,</em> <strong>338</strong>, 145–157.<br>
+            <a href="https://doi.org/10.1016/j.dam.2023.06.003">https://doi.org/10.1016/j.dam.2023.06.003</a>
+          </li>
+          <li>
+            Natalie C. Behague, Anthony Bonato, Melissa A. Huggan, Trent G. Marbach, <strong>Brittany Pittman</strong> (2022).<br>
+            <em>The localization capture time of a graph.</em><br>
+            <em>Theoretical Computer Science,</em> <strong>911</strong>, 80–91.<br>
+            <a href="https://doi.org/10.1016/j.tcs.2022.02.007">https://doi.org/10.1016/j.tcs.2022.02.007</a>
+          </li>
+          <li>
+            D. Dyer, J. Howell, <strong>Brittany Pittman</strong> (2021).<br>
+            <em>The watchman’s walk problem on directed graphs.</em><br>
+            <em>Australasian Journal of Combinatorics,</em> <strong>80</strong>, 197–216.
+          </li>
+        </ul>
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   #- block: collection
   #  id: talks
   #  content:
