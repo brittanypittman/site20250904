@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/CV.pdf
     design:
-      css_class: dark
+      css_class: light
       # Avatar customization
       avatar:
         size: large  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
