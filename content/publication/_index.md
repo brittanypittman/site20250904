@@ -26,6 +26,6 @@ banner:
   [https://doi.org/10.1016/j.tcs.2022.02.007](https://doi.org/10.1016/j.tcs.2022.02.007)  
 
 **2021**  
-- **Brittany Pittman**, D. Dyer, J. Howell (2021).  
+- D. Dyer, J. Howell, **Brittany Pittman** (2021).  
   *The watchman’s walk problem on directed graphs.*  
   *Australasian Journal of Combinatorics,* **80**, 197–216.
