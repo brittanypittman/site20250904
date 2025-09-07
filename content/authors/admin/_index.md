@@ -52,7 +52,7 @@ education:
     date_start: 2020-09-02
     date_end: 2024-07-01
     summary: |
-      Thesis 
+      Thesis: The Localization Game and Generalized Ramsey Numbers
    # button:
       #text: 'Read Thesis'
      # url: 'https://example.com'
@@ -60,6 +60,8 @@ education:
     institution: Memorial University of Newfoundland
     date_start: 2018-09-02
     date_end: 2020-07-31
+    summary: |
+      Thesis: The watchman's walk problem on directed graphs
   - area: BSc Computational Mathematics
     institution: Grenfell Campus, Memorial University of Newfoundland
     date_start: 2016-01-01
