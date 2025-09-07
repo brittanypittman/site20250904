@@ -50,17 +50,13 @@ sections:
 
         <ul style="list-style: disc; margin-left: 1.25rem;">
           <li>
-            Anthony Bonato, Ryan Cushman, Trent G. Marbach, <strong>Brittany Pittman</strong> (2023).<br>
-            <em>The localization game on oriented graphs.</em><br>
-            <em>Discrete Applied Mathematics,</em> <strong>338</strong>, 145–157.<br>
-            <a href="https://doi.org/10.1016/j.dam.2023.06.003">https://doi.org/10.1016/j.dam.2023.06.003</a>
+            Anthony Bonato, Ryan Cushman, Trent G. Marbach, <strong>Brittany Pittman</strong> (2023). <em>The localization game on oriented graphs.</em> <em>Discrete Applied Mathematics,</em> <strong>338</strong>, 145–157. <a href="https://doi.org/10.1016/j.dam.2023.06.003">https://doi.org/10.1016/j.dam.2023.06.003</a>
           </li>
+          <br>
           <li>
-            Natalie C. Behague, Anthony Bonato, Melissa A. Huggan, Trent G. Marbach, <strong>Brittany Pittman</strong> (2022).<br>
-            <em>The localization capture time of a graph.</em><br>
-            <em>Theoretical Computer Science,</em> <strong>911</strong>, 80–91.<br>
-            <a href="https://doi.org/10.1016/j.tcs.2022.02.007">https://doi.org/10.1016/j.tcs.2022.02.007</a>
+            Natalie C. Behague, Anthony Bonato, Melissa A. Huggan, Trent G. Marbach, <strong>Brittany Pittman</strong> (2022). <em>The localization capture time of a graph.</em> <em>Theoretical Computer Science,</em> <strong>911</strong>, 80–91. <a href="https://doi.org/10.1016/j.tcs.2022.02.007">https://doi.org/10.1016/j.tcs.2022.02.007</a>
           </li>
+          <br>
           <li>
             D. Dyer, J. Howell, <strong>Brittany Pittman</strong> (2021).<br>
             <em>The watchman’s walk problem on directed graphs.</em><br>
