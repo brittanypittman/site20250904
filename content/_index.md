@@ -55,12 +55,7 @@ sections:
 
         - D. Dyer, J. Howell, **Brittany Pittman** (2021). *The watchman’s walk problem on directed graphs.* *Australasian Journal of Combinatorics,* **80**, 197–216.
         */
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+      
   #- block: collection
   #  id: talks
   #  content:
