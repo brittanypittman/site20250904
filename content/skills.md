@@ -15,8 +15,9 @@ sections:
 
         My interests are especially centered on community-focused and socially meaningful applications of data, including projects that support communication, planning, and informed action.
 
-        [View **Data Analysis for Community Impact** — a short presentation with a brief data analysis demo](./Data_Analysis_for_Community_Impact.pptx)
-      username: admin
+### Selected Work
+
+  [Data Analysis for Community Impact](./Data_Analysis_for_Community_Impact.pptx)
     design:
       show_skill_percentage: false
 ---
