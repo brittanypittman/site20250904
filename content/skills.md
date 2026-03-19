@@ -4,17 +4,18 @@ date: 2026-03-19
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '4rem'
 
-# Page sections
 sections:
   - block: resume-skills
     content:
       title: Data Analysis Skills
       text: |
-        I have a strong foundation in data analysis, combining my background in mathematics with practical experience in data analytics tools and workflows. My experience includes data cleaning, exploratory data analysis (EDA), statistical analysis, and building visualizations to communicate insights effectively. I have worked with tools such as Python (Pandas, NumPy), SQL, Excel, and Power BI to analyze datasets, identify trends, and support data-driven decision-making.
+        I use data analysis to turn complex information into clear, useful insights. My background in mathematics gives me a strong foundation in analytical thinking, while my training in data analytics has given me practical experience with data cleaning, exploratory data analysis, visualization, statistical analysis, and dashboard development. I work with tools such as Python, SQL, Excel, and Power BI to explore datasets, identify patterns, and communicate findings in a way that supports evidence-based decision-making.
 
-        [View my presentation: *Data Analysis for Community Impact*](./Data_Analysis_for_Community_Impact.pptx)
+        My interests are especially centered on community-focused and socially meaningful applications of data, including projects that support communication, planning, and informed action.
+
+        [View **Data Analysis for Community Impact** — a short presentation with a brief data analysis demo](./Data_Analysis_for_Community_Impact.pptx)
       username: admin
     design:
       show_skill_percentage: false
