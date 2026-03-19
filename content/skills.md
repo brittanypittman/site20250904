@@ -19,7 +19,7 @@ sections:
     content:
       title: Selected Work
       text: |
-        **Presentation and Short Demo:**
+        **Presentation:**
         <a href="./Data_Analysis_for_Community_Impact.pptx" style="color: #A91FFF; font-weight: 600;">
           Data Analysis for Community Impact
         </a> <br>
