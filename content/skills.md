@@ -7,7 +7,7 @@ design:
   spacing: '4rem'
 
 sections:
-  - block: resume-skills
+  - block: markdown
     content:
       title: Data Analysis Skills
       text: |
