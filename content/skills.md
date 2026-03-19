@@ -18,15 +18,13 @@ sections:
     content:
       title: Selected Work
       text: |
-       **Presentation and Short Demo:**  
-<a href="./Data_Analysis_for_Community_Impact.pptx" style="color: #2a6fdb; font-weight: 600;">
-  Data Analysis for Community Impact
-</a>  
-
-<span style="font-size: 0.9em; color: #666;">
-Grenfell Campus, Memorial University  
-March 25, 2026
-</span>
+     **Presentation and Short Demo:**
+    <a href="./Data_Analysis_for_Community_Impact.pptx" style="color: #2a6fdb; font-weight: 600;">
+    Data Analysis for Community Impact
+    </a>
+    <span style="font-size: 0.9em; color: #666;">
+    Grenfell Campus, Memorial University
+    March 25, 2026 </span>
 
     
 
