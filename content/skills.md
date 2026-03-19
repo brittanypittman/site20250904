@@ -18,7 +18,7 @@ sections:
     content:
       title: Selected Work
       text: |
-       Presentation and Short Demo: [Data Analysis for Community Impact](./Data_Analysis_for_Community_Impact.pptx)
+      ## Presentation and Short Demo: [Data Analysis for Community Impact](./Data_Analysis_for_Community_Impact.pptx)
 
     
 
